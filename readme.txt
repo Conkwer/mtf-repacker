@@ -1,7 +1,5 @@
 
 
-
-
 MTF unpacker/packer for Darkstone archives.
 
 
@@ -45,18 +43,6 @@ System Requirements:
 -----------------------------------------------
 
 Win7 x86 or newer (PythonWin7 was 3.12.3 used, can require KB2533623)
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 -----------------------------------------------
