@@ -1,6 +1,6 @@
 
 
-MTF unpacker/packer for Darkstone archives.
+MTF unpacker/packer for Darkstone archives. Beta
 
 
 -----------------------------------------------
@@ -16,6 +16,7 @@ mtf -x -i data.mtf -o ./extracted
 
 to pack:
 mtf -a -i data.mtf -o ./source_directory
+(need to be fixed to vise versa later, I know it).
 
 to save a list:
 mtf --list -i data.mtf -l data.mtf.txt
@@ -55,9 +56,9 @@ Example: mtf -x -i data.mtf -o ./extracted
 
 Commands:
 
--a, --add, create
--x, --extract, extract
--l, --list, list
+-a, --add
+-x, --extract
+-l, --list
 Create a new MTF file from the specified input.
 Extract files from an MTF to a specified directory.
 List the contents to a file (use with -l option)
