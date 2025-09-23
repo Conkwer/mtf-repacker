@@ -8,6 +8,7 @@ How to use:
 -----------------------------------------------
 
 Note: You can drag and drop the .mtf file onto mtf.exe to unpack the file.
+To pack them back use the command-line interface tho.
 
 Examples for cli:
 
@@ -91,6 +92,7 @@ Authors:
 Based on reasearches of many open-source contributors who provided documentations and examples of code. 
 Thanks Darkstone homebrew community for their ongoing efforts.
 "MTF unpacker/packer for Darkstone" is open-source, so you're free to modify the code as needed.
+
 
 
 
