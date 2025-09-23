@@ -95,6 +95,3 @@ Based on reasearches of many open-source contributors.
 "MTF unpacker/packer for Darkstone" is open-source, so you're free to modify the code as needed. 
 
 
-
-- downloaded from oketado.ru, 2024 -
-
