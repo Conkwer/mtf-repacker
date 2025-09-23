@@ -36,7 +36,7 @@ c) standard command-line arguments similar to 7z and ffmpeg.
 d) easier to use (support drag'n'drop) and modify
 
 
-Note: Compression is also not supported for new archives since there are not a lot of info about it was availible.
+Note: Compression is also not supported for new archives since there are not a lot of info about it was availible. I mean you CAN create mtf files but with no compression (bigger size).
 
 
 -----------------------------------------------
@@ -97,3 +97,4 @@ Based on reasearches of many open-source contributors.
 
 
 - downloaded from oketado.ru, 2024 -
+
