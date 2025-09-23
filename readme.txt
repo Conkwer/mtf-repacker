@@ -88,10 +88,9 @@ Note: Replace 'COMMAND' with '--add', '--extract', or '--list' and provide the n
 Authors:
 -----------------------------------------------
 
+Based on reasearches of many open-source contributors who provided documentations and examples of code. 
+Thanks Darkstone homebrew community for their ongoing efforts.
+"MTF unpacker/packer for Darkstone" is open-source, so you're free to modify the code as needed.
 
-Based on reasearches of many open-source contributors.
-
-
-"MTF unpacker/packer for Darkstone" is open-source, so you're free to modify the code as needed. 
 
 
